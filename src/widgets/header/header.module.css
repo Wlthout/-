@@ -1,0 +1,48 @@
+.headerContainer {
+  position: fixed;
+  top: 0;
+  z-index: 2;
+  background-color: white;
+  width: 100vw;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 5px 10px lightgrey;
+}
+.mainContainer {
+  width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerContent {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.menuItem {
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.menuItem:hover {
+  cursor: pointer;
+}
+.additionalInfo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.popoverContent {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
