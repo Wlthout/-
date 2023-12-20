@@ -1,0 +1,87 @@
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\testdb.exe.config
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\testdb.exe
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\testdb.pdb
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Google.Protobuf.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Hash.xxHash.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\MySql.Data.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Newtonsoft.Json.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Buffers.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.IO.Pipelines.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Memory.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Numerics.Vectors.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Web.Cors.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\ZstdSharp.dll
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Google.Protobuf.pdb
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Google.Protobuf.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\K4os.Hash.xxHash.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\MySql.Data.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\Newtonsoft.Json.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Buffers.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.IO.Pipelines.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Memory.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Numerics.Vectors.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Уник\3 курс\КПО\Курсач\testdb\obj\Debug\Back.csproj.AssemblyReference.cache
+D:\Уник\3 курс\КПО\Курсач\testdb\obj\Debug\Back.csproj.CoreCompileInputs.cache
+D:\Уник\3 курс\КПО\Курсач\testdb\obj\Debug\Back.csproj.CopyComplete
+D:\Уник\3 курс\КПО\Курсач\testdb\obj\Debug\testdb.exe
+D:\Уник\3 курс\КПО\Курсач\testdb\obj\Debug\testdb.pdb
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\testdb.exe.config
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\testdb.exe
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\testdb.pdb
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\BouncyCastle.Cryptography.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Google.Protobuf.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Hash.xxHash.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\MySql.Data.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Newtonsoft.Json.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Buffers.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.IO.Pipelines.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Memory.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Numerics.Vectors.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Web.Cors.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\ZstdSharp.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\BouncyCastle.Cryptography.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Google.Protobuf.pdb
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Google.Protobuf.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\K4os.Hash.xxHash.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\MySql.Data.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\Newtonsoft.Json.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Buffers.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.IO.Pipelines.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Memory.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Numerics.Vectors.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\лабы\kursach_kpo\Курсач\testdb\obj\Debug\Back.csproj.AssemblyReference.cache
+E:\лабы\kursach_kpo\Курсач\testdb\obj\Debug\Back.csproj.CoreCompileInputs.cache
+E:\лабы\kursach_kpo\Курсач\testdb\obj\Debug\Back.csproj.CopyComplete
+E:\лабы\kursach_kpo\Курсач\testdb\obj\Debug\testdb.exe
+E:\лабы\kursach_kpo\Курсач\testdb\obj\Debug\testdb.pdb
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\dbl.dll
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\dbl.pdb
+E:\лабы\kursach_kpo\Курсач\testdb\bin\Debug\dbl.dll.config
